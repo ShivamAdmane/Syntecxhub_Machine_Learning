@@ -1,0 +1,6 @@
+Segment,Customer_Count,Average_Age,Average_Income,Average_Spending,Average_Purchases,Marketing_Action
+High Income - High Spenders,344,36.93,75850.93,1453.95,20.52,"Offer premium products, loyalty rewards, and personalized premium offers."
+Low Income - Low Spenders,665,37.07,30821.98,83.59,5.51,"Use budget-friendly offers, discounts, and low-cost product recommendations."
+Moderate Income - Moderate Spenders,384,43.22,57046.28,604.15,15.52,"Use personalized recommendations, bundle offers, and loyalty incentives."
+Older - High Spenders,423,59.51,70780.15,1183.08,19.57,"Promote premium products, loyalty benefits, and personalized offers suitable for mature customers."
+Older - Low Spenders,421,57.01,41719.94,158.83,7.37,"Use simple promotional offers, targeted discounts, and product recommendations to encourage engagement."
