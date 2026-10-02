@@ -1,0 +1,4 @@
+Model,Precision,Recall,F1-Score,ROC-AUC
+Random Forest - Without SMOTE,1.0,0.9391,0.9686,0.9994
+Random Forest - With SMOTE,1.0,0.934,0.9659,0.9998
+XGBoost,1.0,0.9746,0.9871,0.9947
