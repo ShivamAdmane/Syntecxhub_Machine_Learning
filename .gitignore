@@ -16,3 +16,18 @@ env/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
